@@ -1,0 +1,351 @@
+
+
+
+@media screen and (max-width: 1550px)    {
+    nav{
+        display: none;
+       
+    }
+
+    .chat{
+        display: flex;
+    }
+
+    .burger{
+        display: flex;
+
+    }
+
+    main{
+        flex-wrap: wrap;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+      
+       
+      }
+
+      section{
+        flex-wrap: wrap;
+        height: auto;
+        padding: auto;
+    }
+
+    .sct2{
+        flex-direction: column;
+    }
+
+    .sctchild{
+        flex-direction: column;
+    }
+
+    .fotra{
+        display: flex;
+        justify-content: center;
+        align-items: end !;
+        height: auto;
+    }
+
+    .btn1{
+        width: 150px !important;
+        height: 50px !important;
+        font-size: 15px;
+    }
+
+    .img{
+        width: 500px;
+    }
+
+    .sct2child{
+        width: 500px;
+    }
+
+
+   
+    
+    
+    
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1050px) {
+
+
+    
+    .ara{
+        flex-direction: column ;
+       
+    }
+
+
+    footer{
+        flex-direction: column;
+        height: auto;
+        padding: auto;
+      
+       
+    }
+
+    .futchild1{
+        margin-left: 150px;
+    }
+
+
+    .futchild2{
+        margin-left: 150px;
+    }
+
+
+    .futchild3{
+        margin-left: 150px;
+    }
+
+
+    
+    .line2{
+        width: 250px !important;
+      
+       
+    }
+     
+
+    .grz{
+        padding-left: 40% !important;
+       margin-top: 100px;
+       gap: 20px;
+    }
+
+
+   
+
+    .lb1{
+        margin-top: 565px;
+    }
+
+    .contact1{
+        gap: 20px;
+
+    }
+
+
+    
+
+
+   
+    .contact{
+        gap: 20px;
+       
+    }
+
+   .grz > button{
+    padding-left: 30%;
+   }
+
+
+   .ggg{
+    width: 125px;
+    padding-left: 30%;
+   }
+
+   .line1{
+    width: 125px;
+    padding-left: 30%;
+   }
+
+
+   .line3{
+    width: 125px;
+   }
+
+   .line4{
+    width: 125px;
+   }
+
+
+    .contact1{
+        flex-direction: column;
+        height: auto;
+        width: auto;
+        display: none;
+       }
+    
+       .ggg{
+        flex-direction: column;
+       }
+    
+       .btn12{
+           width: auto;
+        
+    
+       }
+    
+
+   .img{
+       width: 100%;
+   }
+
+
+   .mp{
+    margin-top: 1050px;
+    width: 200px;
+    height: auto;
+   }
+
+  .pirvelisurat{
+     padding-left: 40px;
+  }
+
+  .carusel1 > h6{
+      
+      width: 150px;
+      text-align: center;
+      padding-top: 20px;
+  }
+
+  .carusel1 > p{
+      margin-top: 50px;
+  }
+
+  .carusel > h2{
+      padding-top: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+
+
+   .sct2 > p{
+     width: 310px;
+     text-align: center;
+     font-size: 15px;
+     margin-right: 50px;
+    
+   }
+
+   .sct2{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+   }
+
+
+   .fotrarbtn{
+    margin-top: 700px;
+    
+
+   }
+
+  
+
+
+   .sct2parent{
+    flex-direction: column;
+   }
+
+
+   .lb1{
+    display: none;
+  }
+  .lbl{
+    display: none;
+  }
+
+  .line2{
+    display: none;
+  }
+
+
+    
+    
+}
+
+
+
+
+@media screen and (max-width: 1000px) {
+    .mp{
+       margin-right: 400px;
+    }
+
+    input{
+        height: auto;
+        width: 100px;
+    }
+
+    label{
+        height: auto;
+        width: auto;
+    }
+
+
+    .line{
+        height: auto;
+        width: 100px;
+    }
+    .child{
+        width: 250px;
+        height: 200px;
+        margin-bottom: 100px;
+      
+    }
+
+    .child > p{
+        font-size: 10px;
+    }
+    .child > h3{
+        font-size: 10px;
+    }
+
+    .child > h2{
+        font-size: 10px;
+    }
+
+    .btn1{
+        width: 250px;
+        height: 40px;
+     
+       
+    }
+    .parentofth{
+        flex-direction: column;
+        width: 200px;
+    }
+
+
+    .pirveli4{
+        width: 100px !important;
+        display: flex;
+        height: auto;
+    }
+
+    .mtvr{
+        display: flex;
+        flex-direction: column;
+        width: 350px ;
+        height: auto;
+    }
+
+    .childo1{
+        width: 350px;
+        height: auto;
+        text-align: center;
+    }
+
+
+    section{
+        margin-top: 100px;
+    }
+
+    
+
+
+    
+    
+}

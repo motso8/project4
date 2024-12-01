@@ -1,0 +1,184 @@
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1550px){
+
+
+    
+
+
+    nav{
+        display: none;
+       
+       
+    }
+
+    .chat{
+        display: flex;
+    }
+
+    .burger{
+        display: flex;
+
+    }
+
+    .nav2{
+       
+       display: none;
+
+      
+    }
+
+
+    .jild1{
+        display: flex;
+        flex-direction: column;
+        width: 400px;
+        height: auto;
+        
+    }
+
+
+    .jild1 > img{
+        width: 100%;
+    }
+
+
+    .jild2{
+        display: flex;
+        flex-direction: column;
+        width: 400px;
+        height: auto;
+    }
+
+
+    .jild2 > img{
+        width: 100%;
+    }
+
+    .lb1{
+        display: none;
+      }
+      .lbl{
+        display: none;
+      }
+    
+      .line2{
+        display: none;
+      }
+    
+
+
+    .jild3{
+        display: flex;
+        flex-direction: column;
+        width: 400px;
+        height: auto;
+    }
+
+
+    .jild3 > img{
+        width: 100%;
+    }
+
+
+
+    .jild4{
+        display: flex;
+        flex-direction: column;
+        width: 400px;
+        height: auto;
+    }
+
+
+    .jild4 > img{
+        width: 100%;
+    }
+
+
+
+
+     footer{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+
+
+    .grz{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        width: 200px;
+        margin-left: 200px;
+    }
+
+
+    .ggg{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        width: 100px;
+    }
+
+    .btn12{
+        width: 300px;
+        height: auto;
+       position: absolute;
+       left: 10%;
+    }
+
+
+    .line{
+       width: 100px;
+    }
+
+    .line2{
+        width: 100px;
+    }
+
+    .line3{
+        width: 100px;
+    }
+    .line4{
+        width: 100px;
+    }
+
+    .parent{
+        flex-direction: column;
+        height: auto;
+        gap: 30px;
+    }
+
+
+    .plans{
+        width: 400px;
+        height: auto;
+    }
+
+    .abs{
+        display: none;
+    }
+
+    .contact1{
+        display: none;
+
+    }
+
+
+    
+}
+
+
+
+
+
+

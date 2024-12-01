@@ -1,0 +1,270 @@
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1550px){
+    .mtavari{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        gap: 200px;
+    }
+
+    .txt {
+        width: auto;
+        height: auto;
+        text-align: center;
+        
+    }
+
+    .txt > p{
+        width: 350px;
+        padding-left: 10% !important;
+    }
+
+    .spot{
+        display: flex;
+        flex-direction: column;
+        width: 100px;
+        height: auto;
+        text-align: center;
+    }
+
+   main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    gap: 50px;
+   }
+
+
+    .lineforada{
+        width: 500px;
+
+    }
+
+    .timezojn{
+        width: 100px;
+        height: auto;
+        text-align: center;
+
+    }
+
+    .carusel{
+        width: 100%;
+        
+    }
+
+
+    .cald{
+        flex-direction: column;
+        height: auto;
+        width: 400px;
+
+    }
+
+    .txt1{
+        width: 350px;
+        height: auto;
+        flex-direction: column;
+        text-align: center;
+        padding-left: 20%;
+    }
+
+
+    .txt1 > p{
+      padding: auto;
+      width: 150px;
+    }
+
+    
+    .abs{
+        display: none;
+    }
+
+    .parentlogos{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .ggg{
+        padding-left: 30% !important;
+    }
+
+    .line1{
+        width: 125px;
+    }
+
+
+    .grz{
+     margin-top: 500px;
+    }
+
+    
+    
+}
+
+
+
+@media screen and (max-width: 1550px){
+
+
+    .contact > h2{
+     margin-top: 200px;
+    }
+
+
+   
+   .mtlchild1{
+    flex-direction: column;
+
+   }
+
+   .mtlchild2{
+    flex-direction: column;
+   }
+
+   .contact{
+    margin-top: 1500px;
+   }
+   .lb1{
+    display: none;
+  }
+  .lbl{
+    display: none;
+  }
+
+  .line2{
+    display: none;
+  }
+
+
+   footer{
+  flex-wrap: wrap;
+  height: 100vh;
+   }
+
+
+   input{
+    width: 200px;
+    height: auto;
+   }
+
+
+   .btn12{
+    width: 150px;
+    height: auto;
+   }
+
+   .mp{
+   display: none;
+   }
+
+   .mpq{
+    display: none;
+   }
+
+   .firstrw{
+    flex-direction: column;
+   }
+
+
+   .secndrw{
+    flex-direction: column;
+   }
+
+
+   .lineforada{
+    width: 300px;
+   }
+
+   .pas{
+    margin-top: 150px;
+    margin-right: 100px;
+   }
+
+   .pa{
+    margin-top: 150px;
+    padding: 5px;
+   }
+
+   .uia{
+    margin-top: 200px;
+   }
+
+   .frr{
+    display: flex;
+    flex-direction: column;
+   }
+
+
+   .dama{
+    flex-wrap: wrap;
+   }
+
+   .dama1 > h5{
+    width: 300px;
+   }
+    
+
+   section{
+       gap: 20px;
+   }
+
+   .pirvelisurat{
+       padding-left: 100px;
+   }
+
+
+   .meoresurat{
+       padding-left: 100px;
+   }
+
+   .mtl1{
+       padding-left: 100px;
+   }
+
+
+   .mtl2{
+       padding-left: 100px;
+   }
+
+
+   .mdl1{
+       padding-left: 100px;
+   }
+
+   .mdl2{
+       padding-left: 100px;
+   }
+    
+
+   .forthtext > button{
+       padding-bottom: 40px;
+   }
+
+
+   .parent{
+     padding-left: 15%;
+   }
+
+   .contact1{
+    display: none;
+   }
+
+
+}
+
+
+
+
+
+
+
+
+
