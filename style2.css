@@ -38,28 +38,37 @@ body{
       
     }
 
-
+    .pa{
+       display: none;
+    }
+    .pas{
+       display: none;
+    }
+   
+    
+    .txt > p{
+        width: 250px !important;
+       
+        
+        
+    }
+    
+      
+    
+    
     
   
     
 }
 
-
-.txt{
+.txt {
     margin-top: 200px;
+    
    
 }
 .txt > h2{
-    margin-left: 43%;
+    margin-left: 40%;
 }
-
-.txt > p{
-    width: 700px;
-    text-align: center;
-    margin-left: 35%;
-    
-}
-
 
 header{
     width: 100%;

@@ -116,7 +116,9 @@ nav ul li a {
 
    
 }
-
+.tul{
+   width: 100px;
+}
 
 main{
     position: relative;
@@ -129,9 +131,7 @@ main{
    margin-bottom: 30px;
 }
 
-.table-container > p{
-    margin-right: 200px !important;
-}
+
 
 .child{
     position: absolute;

@@ -252,6 +252,38 @@
    .parent{
      padding-left: 15%;
    }
+    .child1 {
+    width: 340px !important;
+   }
+   .child2{
+    width: 340px !important;
+   }
+   .child3{
+    width: 340px !important;
+   }
+
+   
+
+
+   .child1 > .grandchild1{
+    width: 340px;
+  
+   }
+
+   .child2 > .grandchild2{
+    width: 340px;
+  
+   }
+
+   .child3 > .grandchild3{
+    width: 340px;
+  
+   }
+
+
+  .zaza{
+    width: 340px !important;
+  }
 
    .contact1{
     display: none;
@@ -260,7 +292,10 @@
    .regbtn{
     display: flex;
    }
-
+   .table-container > .tul{
+    padding-right: 350px !important;
+    
+}
 
 }
 
