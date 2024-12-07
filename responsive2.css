@@ -172,6 +172,9 @@
         display: none;
 
     }
+    .regbtn{
+        display: flex;
+    }
 
 
     

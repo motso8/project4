@@ -1,7 +1,7 @@
 
 
 
-@media screen and (max-width: 1550px)    {
+@media screen and (max-width: 1550px )    {
     nav{
         display: none;
        
@@ -13,6 +13,7 @@
 
     .burger{
         display: flex;
+      
 
     }
 
@@ -61,7 +62,38 @@
     }
 
 
-   
+    .child{
+        width: 250px;
+        height: 200px;
+        top: 600px;
+        left: 40px;
+
+        
+      
+    }
+
+    .child > p{
+        font-size: 10px;
+    }
+    .child > h3{
+        font-size: 10px;
+    }
+
+    .child > h2{
+        font-size: 10px;
+    }
+
+    .btn1{
+        font-size: 10px;
+     
+     
+       
+    }
+
+
+    .regbtn{
+        display: flex;
+    }
     
     
     
@@ -77,12 +109,16 @@
 
 @media screen and (max-width: 1050px) {
 
-
+.fotrarbtn{
+    display: none;
+}
     
     .ara{
         flex-direction: column ;
        
     }
+
+   
 
 
     footer{
@@ -289,30 +325,8 @@
         height: auto;
         width: 100px;
     }
-    .child{
-        width: 250px;
-        height: 200px;
-        margin-bottom: 100px;
-      
-    }
-
-    .child > p{
-        font-size: 10px;
-    }
-    .child > h3{
-        font-size: 10px;
-    }
-
-    .child > h2{
-        font-size: 10px;
-    }
-
-    .btn1{
-        width: 250px;
-        height: 40px;
-     
-       
-    }
+    
+   
     .parentofth{
         flex-direction: column;
         width: 200px;

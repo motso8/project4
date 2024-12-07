@@ -11,7 +11,9 @@
 body{
     overflow-x: hidden;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 
 
 header{
@@ -847,7 +849,9 @@ footer{
 
 
 
-
+.line1{
+    width: 450px;
+}
 
 
 .contact > h2{
@@ -859,6 +863,7 @@ footer{
     height: 50px;
     background-color: white;
    border: none;
+   display: none;
  }
  
  .regbtn:hover{

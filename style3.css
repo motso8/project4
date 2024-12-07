@@ -7,7 +7,9 @@
    
 }
 
-
+html{
+    scroll-behavior: smooth;
+}
 
 body{
     overflow-x: hidden;
@@ -627,7 +629,7 @@ footer{
 .mp{
     position: absolute;
     left: 30%;
-    top: 2580px;
+    top: 2550px;
 }
 
 
@@ -894,9 +896,14 @@ footer{
 
 
 
+.line1{
+    width: 450px;
+}
 
-
-
+.ggg {
+   
+  padding-left: 5px;
+}
 
 
 .contact > h2{
@@ -907,6 +914,7 @@ footer{
     height: 50px;
     background-color: white;
    border: none;
+   display: none;
  }
  
  .regbtn:hover{

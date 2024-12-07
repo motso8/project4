@@ -7,6 +7,9 @@
    
 }
 
+html{
+    scroll-behavior: smooth;
+}
 
 body{
     overflow-x: hidden;
@@ -310,14 +313,14 @@ button{
 }
 
 .carusel{
-    position: relative;
+    height: 40vh;
 }
 
 
 .carusel > h2{
-    left: 45%;
-    position: absolute;
-    top: 240px;
+  
+   text-align: center;
+   
 }
 
 
@@ -374,7 +377,9 @@ button{
 
 }
   
-  
+  .regbtn{
+    display: none;
+  }
 
 .sct2 > p{
     font-size: 20px;

@@ -12,7 +12,9 @@
 body{
     overflow-x: hidden;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 
 header{
     width: 100%;
@@ -122,6 +124,15 @@ main{
     
 }
 
+
+.table-container > h1{
+   margin-bottom: 30px;
+}
+
+.table-container > p{
+    margin-right: 200px !important;
+}
+
 .child{
     position: absolute;
     width: 700px;
@@ -131,6 +142,7 @@ main{
     margin-bottom: 200px;
     z-index: 2;
     top: 800px;
+    
     
    
 }
@@ -1233,12 +1245,15 @@ body {
   .contact > h2{
     padding-top: 50px;
 }
-
+.line1{
+    width: 450px;
+}
 .regbtn{
     font-size: 15px;
     height: 50px;
     background-color: white;
    border: none;
+   display: none;
  }
  
  .regbtn:hover{
